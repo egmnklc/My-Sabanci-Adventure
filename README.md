@@ -1,4 +1,5 @@
 # Hi there, I'm Egemen<img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -7,9 +8,9 @@
 - 👨‍💻 I’m currently working on Python projects and automating web and mobile devices.
 - 📚 Beginner on java 😅, soon begin to learn Kubernetes! 
 - ⚡ Fun fact: I was a american latin dancer and got 6 medals and a cup.
+- 📫 How to reach me: developer.egemen@gmail.com
 
 ---
-
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
@@ -40,7 +41,6 @@
     <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
-    
   </p>
 
 ### Areas I'm Working To Improve Myself On
