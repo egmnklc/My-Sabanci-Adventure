@@ -9,6 +9,7 @@
 - 📚 Beginner on java 😅, soon begin to learn Kubernetes! 
 - ⚡ Fun fact: I was a american latin dancer and got 6 medals and a cup.
 - 📫 How to reach me: developer.egemen@gmail.com
+- 🦾 Updates arrive every week!
 
 ---
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
