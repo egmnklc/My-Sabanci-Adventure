@@ -4,7 +4,7 @@
 
 ## I'm a Computer Science and Engineering Student In Sabanci Univeristy
 
-- 👨‍💻 I’m currently working on Python projects and automating web and mobile devices..
+- 👨‍💻 I’m currently working on Python projects and automating web and mobile devices.
 - 📚 Beginner on java 😅, soon begin to learn Kubernetes! 
 - ⚡ Fun fact: I was a american latin dancer and got 6 medals and a cup.
 
