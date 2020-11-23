@@ -39,6 +39,5 @@ b = int(a * 60)
 watchableSeconds = watchableHours * 3600 - int(watchableHours) * 3600 - b * 60
 # Finally, printed out the result.
 print("You can watch video for", int(watchableHours), "hour(s),", b, "minute(s) and", round(watchableSeconds, 2), "second(s).")
-
 # Thanks for the pleasurable assignment!
 # Regards, Egemen Kilic.
