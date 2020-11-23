@@ -14,7 +14,6 @@ in.com/in/egemen-k%C4%B1l%C4%B1%C3%A7-84086b166/"><img src="https://img.shields.
 - 🦾 Updates arrive every week!
 ---
 
-<img src="https://img.icons8.com/android/24/000000/linkedin.png"/>
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
