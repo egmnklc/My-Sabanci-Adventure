@@ -1,4 +1,4 @@
-# Hi there, I'm Egemen<img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Egemen<img width="30px" src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" />
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
