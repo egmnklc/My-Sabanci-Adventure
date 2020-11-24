@@ -52,8 +52,3 @@ in.com/in/egemen-k%C4%B1l%C4%B1%C3%A7-84086b166/"><img src="https://img.shields.
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white">
   </p>
-  
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
-  
-----
-Credit: [Bgstatic](https://github.com/Bgstatic)
