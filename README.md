@@ -46,6 +46,7 @@ in.com/in/egemen-k%C4%B1l%C4%B1%C3%A7-84086b166/"><img src="https://img.shields.
     <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
   </p>
 ---
+
 ### Areas I'm Working To Improve Myself On
   <p>
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
