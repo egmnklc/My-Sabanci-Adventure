@@ -1,0 +1,8 @@
+def calculateAreaOfTrapezoid():
+    base = int(input("Base of trapezoid: "))
+    roof = int(input("Roof of trapezoid: "))
+    height = int(input("Height of trapezoid: "))
+    baseRoof = base + roof
+    trapezoidArea = baseRoof * height / 2
+    print(trapezoidArea)
+calculateAreaOfTrapezoid()
