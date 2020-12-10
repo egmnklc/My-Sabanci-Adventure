@@ -4,8 +4,9 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Computer Science and Engineering Student In Sabanci Univeristy
-<a href= "ttps://www.
-in.com/in/egemen-k%C4%B1l%C4%B1%C3%A7-84086b166/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href= "https://www.linkedin.com/in/egemen-k%C4%B1l%C4%B1%C3%A7-84086b166/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a>
 <a href = "mailto:developer.egemen@gmail.com"><img src = "https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 - 👨‍💻 I’m currently working on Python projects and automating web and mobile devices.
 - 📚 Beginner on java 😅, soon begin to learn Kubernetes! 
