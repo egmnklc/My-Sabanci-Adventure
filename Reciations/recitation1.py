@@ -23,14 +23,14 @@ if name in names:
                             print("You're a customer!")
                     else:
                         print("You're not a customer!")
-                elif int(birthday_purified[0]) > 9 and int(birthday_purified[0]) == birth_days[0]:
+                elif int(birthday_purified[0]) > 9 and int(birthday_purified[0]) == birth_days[0]:#day
                     if 1 <= int(birthday_purified[1]) <= 9 and birthday_purified[1] == str("0" + str(birth_months[0])):#month
                         if int(birthday_purified[2]) == birth_years[0]:#year
                             print("You're a customer!")
                         else:
                             print("You're not a customer!")
                     elif int(birthday_purified[1]) > 9 and int(birthday_purified[1]) == birth_months[0]:
-                        if int(birthday_purified[2]) == birth_years[0]:
+                        if int(birthday_purified[2]) == birth_years[0]:#year
                             print("You're a customer!")
                         else:
                             print("You're not a customer!")
