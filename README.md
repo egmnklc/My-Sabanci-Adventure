@@ -9,10 +9,10 @@
 </a>
 <a href = "mailto:developer.egemen@gmail.com"><img src = "https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-- 👨‍💻 I’m currently working on Python projects and automating web and mobile devices.
+- 👨‍💻 I’m currently working as a test engineer and learning about video encoding!
 <br>
 
-- 📚 Beginner on java 😅, soon begin to learn Kubernetes! 
+- 📚 Aiming to be a video engineer!
 <br>
 
 - ⚡ Fun fact: I was a american latin dancer and got 6 medals and a cup.
@@ -21,7 +21,7 @@
 - 📫 How to reach me: developer.egemen@gmail.com
 <br>
 
-- 🦾 Updates arrive every week!
+<!--- 🦾 Updates arrive every week!-->
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
