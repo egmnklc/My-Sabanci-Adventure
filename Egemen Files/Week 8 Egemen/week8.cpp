@@ -1,7 +1,10 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-
+/*
+    - This code is only about 8th week recitation. 
+    - It counts the words in a text file
+*/
 using namespace std;
 
 int main()

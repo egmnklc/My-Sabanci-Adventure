@@ -2,6 +2,10 @@
 #include <string>
 #include "strutils.h"
 
+/*
+    - Hangman hame for two players.
+*/
+
 using namespace std;
 
 void startGame(string player_1, string player_2, string word, string secret, bool &continueGame);

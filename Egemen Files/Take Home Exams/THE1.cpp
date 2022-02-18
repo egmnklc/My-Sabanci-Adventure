@@ -1,5 +1,10 @@
 #include <iostream>
+
 using namespace std;
+
+/*
+    - Calculates the burnt calorie depending on reps of specific exercises. 
+*/
 
 void getInput(int &minLunge, int &minPullUp,int &minPushUp,int &repsLunge,
 int &repsPushUp ,int &repsPullUp, string &name, int &minWeightLift, int &repWeight, int &liftedWeight)

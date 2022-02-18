@@ -2,6 +2,8 @@
 #include <string>
 #include "strutils.h"
 
+// Temporary code running file
+
 using namespace std;
 
 void startGame(string player_1, string player_2, string word, string secret, bool &continueGame);

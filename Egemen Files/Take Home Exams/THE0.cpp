@@ -3,11 +3,16 @@
 
 using namespace std;
 
+/* 
+    Calculates Sabaci CS201 Grade
+*/
+
 string name;
 float midterm, final, the1, the2, the3, the4, the5, 
 q1, q2 ,q3, q4, counter_q, counter_t, 
 weighted_average, numeric_grade, the_average, quiz, the_ratio, take_home_grade,
 quiz_grade, quiz_avr, quiz_ratio;
+
 
 int main(){
     cout << "The purpose of this program is to calculate your CS201 grade." << endl;

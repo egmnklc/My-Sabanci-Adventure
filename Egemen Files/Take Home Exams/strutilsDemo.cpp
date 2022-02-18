@@ -3,6 +3,8 @@
 #include "strutils.h"
 using namespace std;
 
+// strUtils Demo file
+
 int main()
 {
 	string name;
