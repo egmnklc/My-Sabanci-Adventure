@@ -9,13 +9,13 @@
 </a>
 <a href = "mailto:developer.egemen@gmail.com"><img src = "https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-- 👨‍💻 I’m currently  learning C++ and JavaScript!
+- 👨‍💻 I’m currently JavaScript and ony my way becoming a Front-End Engineer!
 <br>
 
-- 📚 Aiming to be a video engineer!
+- 📚 Aiming to be a Full-Stack Developer!
 <br>
 
-- ⚡ Fun fact: I was a american latin dancer and got 6 medals and a cup.
+- ⚡ Fun fact: I coded a project that got into the top 3 in Young Guru Academy (YGA) which made into the reputable news sources in Turkey.
 <br>
 
 - 📫 How to reach me: developer.egemen@gmail.com
@@ -58,9 +58,11 @@
   
 ---
 
-### Areas I'm Working To Improve Myself On
+
+<!--### Areas I'm Working To Improve Myself On
   <p>
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white">
   </p>
+-->
