@@ -9,9 +9,6 @@
 </a>
 <a href = "mailto:developer.egemen@gmail.com"><img src = "https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-- 👨‍💻 I’m currently working on my project that aims to help students in Turkey!
-<br>
-
 - 📚 Aiming to be a Full-Stack Developer!
 <br>
 
