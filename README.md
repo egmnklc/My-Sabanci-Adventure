@@ -9,10 +9,12 @@
 </a>
 <a href = "mailto:developer.egemen@gmail.com"><img src = "https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+- This area is only for displaying some of my school work publicly.
+
 - 📚 Aiming to be a Full-Stack Developer!
 <br>
 
-- ⚡ Fun fact: I coded a project that got into the top 3 in Young Guru Academy (YGA) which made into the reputable news sources in Turkey.
+- ⚡ Fun fact: I coded a project that got into the top 3 in Young Guru Academy (YGA) which made into reputable news sources in Turkey.
 <br>
 
 - 📫 How to reach me: developer.egemen@gmail.com
