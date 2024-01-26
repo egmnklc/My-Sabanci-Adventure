@@ -9,9 +9,9 @@
 </a>
 <a href = "mailto:developer.egemen@gmail.com"><img src = "https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-- This area is only for displaying some of my school work publicly.
+- This area is only for displaying some of my school work publicly. Shared my work and resources I've used to study the CS courses in my university. Feel free to take a look at my homeworks, midterm & final preps as well as quizes. 
 
-- 📚 Aiming to be a Full-Stack Developer!
+- 📚 Aiming to be a Full-Stack Developer & AI Engineer!
 <br>
 
 - ⚡ Fun fact: I coded a project that got into the top 3 in Young Guru Academy (YGA) which made into reputable news sources in Turkey.
