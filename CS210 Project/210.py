@@ -1,0 +1,6 @@
+data.plot(x = "Date", y = "Volume", kind = "scatter", figsize =(20,7), title = "Date vs Volume", fontsize = 20, grid = "True", color = "gray" )
+data.plot(x = "Volume", y = "Open", kind = "scatter", figsize =(20,7), title = "Volume vs Open", fontsize = 20, grid = True, logx = True, color = "gray" )
+data.plot(x = "Volume", y = "High", kind = "scatter", figsize =(20,7), title = "Volume vs High", fontsize = 20, grid = True, logx = True, color = "gray" )
+data.plot(x = "Volume", y = "Low", kind = "scatter", figsize =(20,7), title = "Volume vs Low", fontsize = 20, grid = True, logx = True, color = "gray" )
+data.plot(x = "Volume", y = "Close", kind = "scatter", figsize =(20,7), title = "Volume vs Close", fontsize = 20, grid = True, logx = True, color = "gray" )
+data.plot(x = "Volume", y = "Adj Close", kind = "scatter", figsize =(20,7), title = "Volume vs Adj Close", fontsize = 20, grid = True, logx = True, color = "gray" )

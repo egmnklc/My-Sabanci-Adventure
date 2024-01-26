@@ -1,0 +1,9 @@
+Mail from john.doe@mail.com:
+    set myMessage ("Hello")
+    send [myMessage] to [(user5@mail.com)]
+end
+    Mail
+
+Mail from john.doe@mail.com:
+        send [myMessage] to [(user6@mail.com)]
+end Mail
